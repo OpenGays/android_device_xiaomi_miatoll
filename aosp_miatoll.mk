@@ -23,4 +23,4 @@ PRODUCT_MANUFACTURER := Xiaomi
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
 # Maintainer
-DEVICE_MAINTAINER := SonalSingh18
+DEVICE_MAINTAINER := By Gshfty228
